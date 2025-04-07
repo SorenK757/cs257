@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
+*.pyc
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
@@ -54,7 +56,6 @@ cover/
 # Translations
 *.mo
 *.pot
-
 # Django stuff:
 *.log
 local_settings.py
